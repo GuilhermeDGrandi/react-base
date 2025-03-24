@@ -10,7 +10,7 @@ small{
 `
 
 export const Paragrafo= styled.p`
-font-size:80px;
+font-size:30px;
 `;
 
 
